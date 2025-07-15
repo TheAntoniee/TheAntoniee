@@ -6,7 +6,6 @@
 ## ⚡🙋‍♂️ About Me
 </br>
 
-<!-->- 🔧 I’m currently working on ....
 - 💡 I’m curious about cryptography and the Internet of Things (IoT).
 - 📖 I’m currently learning ...React.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
