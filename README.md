@@ -9,7 +9,7 @@
 - 💡 I’m curious about cryptography and the Internet of Things (IoT).
 - 📖 I’m currently learning ...React.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...cristhianriveramtz7@gmail.com.
+- 📫 How to reach me cristhianriveramtz7@gmail.com.
 
 <br>
 
